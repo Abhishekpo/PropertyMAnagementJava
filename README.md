@@ -45,6 +45,11 @@ JUnit (for testing)
 This project was created to practice Java programming concepts and is not intended for actual property management use.
 
 # Screenshots Of GUI
+![Screenshot 2023-10-20 204326](https://github.com/Abhishekpo/PropertyMAnagementJava/assets/98496284/5c54f9f6-9da4-41e3-ab9e-3186a393319e)
+![Screenshot 2023-10-20 204414](https://github.com/Abhishekpo/PropertyMAnagementJava/assets/98496284/cbcea604-adb6-4db6-becf-19eee095c6b4)
+![Screenshot 2023-10-20 204537](https://github.com/Abhishekpo/PropertyMAnagementJava/assets/98496284/204ce414-528c-4baf-a287-205571173556)
+![Screenshot 2023-10-20 204641](https://github.com/Abhishekpo/PropertyMAnagementJava/assets/98496284/c2e956f6-fa1d-4afd-92c8-3fdc95f08062)
+
 
 
 
